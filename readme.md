@@ -128,6 +128,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 [Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
 - [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
+- [Island](https://github.com/island-org/island) - Lightweight and low-level creative coding toolkits in C. 
 
 ### Visual Programming Languages
 
